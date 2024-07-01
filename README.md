@@ -2,6 +2,7 @@
 I'm currently a student in Singapore Management University pursuing a degree in Information Systems
 
 - I’m currently working on using ✨Github APIs✨ for a personal project :)
+- I am currently on the lookout for SWE internships
 
 <!--
 **saplingonfire/saplingonfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
